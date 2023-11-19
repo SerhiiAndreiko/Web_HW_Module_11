@@ -3,7 +3,7 @@ from sqlalchemy.orm import sessionmaker
 from sqlalchemy.exc import SQLAlchemyError
 from starlette import status
 
-# Параметри підключення до PostgreSQL
+# Приклад параметрів підключення до PostgreSQL
 POSTGRES_HOST = "127.0.0.1"
 POSTGRES_USERNAME = "postgres"
 POSTGRES_PASSWORD = "784507"
